@@ -4,10 +4,8 @@
   * [Overview](#Overview)
   * [Business Understanding](#Business-Understanding)
   * [The Challenge](#The-Challenge)
-  * [Installation](#Installation)
   * [Directory Tree](#Directory-Tree)
   * [Technologies Used](#technologies-used)
-  * [Team](#team)
   * [Credits](#credits)
   * [Acknowledgements](#Acknowledgements)
 
